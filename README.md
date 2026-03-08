@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Transformers<br>👯 I’m looking to collaborate on GenAI projects<br>🌱 I’m currently learning Data Science<br>💬 Ask me about LLMs, Transformers, Deep Learning<br>⚡ Fun fact: I've a asteroid of my name revolving around our solar system
+🔭 I’m currently working on Transformers<br>👯 I’m looking to collaborate on GenAI projects<br>🌱 I’m currently learning Data Science<br>💬 Ask me about LLMs, Transformers, Deep Learning<br>⚡ Fun fact: I've a asteroid of my name revolving around our(unless you're not from other) solar system
 
 
 ## 🌐 Socials:
